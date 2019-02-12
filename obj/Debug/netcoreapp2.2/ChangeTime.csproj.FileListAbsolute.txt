@@ -1,0 +1,11 @@
+C:\workspace\ChangeTime\bin\Debug\netcoreapp2.2\ChangeTime.deps.json
+C:\workspace\ChangeTime\bin\Debug\netcoreapp2.2\ChangeTime.runtimeconfig.json
+C:\workspace\ChangeTime\bin\Debug\netcoreapp2.2\ChangeTime.runtimeconfig.dev.json
+C:\workspace\ChangeTime\bin\Debug\netcoreapp2.2\ChangeTime.dll
+C:\workspace\ChangeTime\bin\Debug\netcoreapp2.2\ChangeTime.pdb
+C:\workspace\ChangeTime\obj\Debug\netcoreapp2.2\ChangeTime.csprojAssemblyReference.cache
+C:\workspace\ChangeTime\obj\Debug\netcoreapp2.2\ChangeTime.csproj.CoreCompileInputs.cache
+C:\workspace\ChangeTime\obj\Debug\netcoreapp2.2\ChangeTime.AssemblyInfoInputs.cache
+C:\workspace\ChangeTime\obj\Debug\netcoreapp2.2\ChangeTime.AssemblyInfo.cs
+C:\workspace\ChangeTime\obj\Debug\netcoreapp2.2\ChangeTime.dll
+C:\workspace\ChangeTime\obj\Debug\netcoreapp2.2\ChangeTime.pdb
